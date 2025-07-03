@@ -1,0 +1,14 @@
+filename - kebab-case snake_case
+variables = camelCase
+functions - camelCase
+classes - CamelCase
+constant - SNAKE_CASE (scientific constant) - fact
+constant - camelCase (context dependent constant - you made it up)
+
+brew install node
+
+undefined + 1 => NaN (Not a number)
+
+JavaScript will add everything into a string as long as 1 variable is a string
+"string" + 1 => "string1"
+"1" + 2 => "12"
